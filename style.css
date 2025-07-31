@@ -490,7 +490,7 @@ body {
     color: var(--chocolate-martini);
     font-size: 0.95rem;
 }
->>>>>>> 3a5824c28ffbc368c1d3f1cb07a9cba818a7c0d2
+
 /* Contato */
 .contato {
     padding: 80px 0;
@@ -745,7 +745,7 @@ body {
     .faq-question h3 {
         font-size: 1rem;
     }
->>>>>>> 3a5824c28ffbc368c1d3f1cb07a9cba818a7c0d2
+    
     .especialidades-grid {
         grid-template-columns: repeat(2, 1fr);
         max-width: 100%;
@@ -808,7 +808,7 @@ body {
     .faq-answer p {
         font-size: 0.85rem;
     }
->>>>>>> 3a5824c28ffbc368c1d3f1cb07a9cba818a7c0d2
+    
     .whatsapp-float {
         bottom: 1rem;
         right: 1rem;
